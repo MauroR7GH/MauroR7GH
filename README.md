@@ -8,7 +8,7 @@ Later, and thanks to Henry, I was able to get to work and collaborate with other
 
 ## 📬 If you want to contact me, you can use...
 
-<a href='https://www.linkedin.com/in/mauroreyna' target='_blank' rel='noopener noreferrer'><img src='./logos/GmailLogo.png' width='50px'/></a>
+<a href='mailto:maurorg777@gmail.com' target='_blank' rel='noopener noreferrer'><img src='./logos/GmailLogo.png' width='50px'/></a>
 <a href='https://www.linkedin.com/in/mauroreyna' target='_blank' rel='noopener noreferrer'><img src='./logos/LinkedInLogo.png' width='50px'/></a>
 
 <!--
