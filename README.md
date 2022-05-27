@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Mauro! 👋
+
+### 💻 I'm a Full Stack web developer.
+
+I began to train myself in programming and web development by my own, with conferences and small training sessions by professors of the UBA (Universidad de Buenos Aires), and also with online material (YouTube, FreeCodeCamp). By this way, I was confirming my interest in this exciting world more and more.
+
+Later, and thanks to Henry, I was able to get to work and collaborate with other people in these areas, and acquire greater depth in my knowledge. The technologies and tools that I've been learning and using are: HTML, CSS, JavaScript, React JS, Redux, Node JS, Express, SQL, PostgreSQL, Sequelize, etc.
+
+## 📬 If you want to contact me...
+This is my email: maurorg777@gmail.com
+
+And my LinkedIn: https://www.linkedin.com/in/mauroreyna/
 
 <!--
 **MauroR7GH/MauroR7GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
