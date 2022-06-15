@@ -14,10 +14,10 @@ It´s a SPA (Single Page Application) developed with:
 - 🛠 Back-End: Node JS, Express
 - 📝 Database: Sequelize, Postgres
 
-<img src='./img/Landing.png' width='470px' align='left'/>
-<img src='./img/Home.png' width='470px'/>
-<img src='./img/Details.png' width='470px' align='left'/>
-<img src='./img/Create.png' width='470px'/>
+<img src='./img/Landing.png' width='450px' align='left'/>
+<img src='./img/Home.png' width='450px'/>
+<img src='./img/Details.png' width='450px' align='left'/>
+<img src='./img/Create.png' width='450px'/>
 
 ## 📬 If you want to contact me, you can use...
 
