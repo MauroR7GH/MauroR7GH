@@ -15,9 +15,9 @@ It´s a SPA (Single Page Application) developed with:
 - 📝 Database: Sequelize, Postgres
 
 <img src='./img/Landing.png' width='425px' align='left'/>
-<img src='./img/Home.png' width='425px'/>
+<img src='./img/Home.png' width='425px' align='center'/>
 <img src='./img/Details.png' width='425px' align='left'/>
-<img src='./img/Create.png' width='425px'/>
+<img src='./img/Create.png' width='425px' align='center'/>
 
 ## 📬 If you want to contact me, you can use...
 
