@@ -4,15 +4,18 @@
 
 I began to train myself in programming and web development by my own, with conferences and small training sessions by professors of the UBA (Universidad de Buenos Aires), and also with online material (YouTube, FreeCodeCamp). By this way, I was confirming my interest in this exciting world more and more.
 
-Later, and thanks to Henry, I was able to get to work and collaborate with other people in these areas, and acquire greater depth in my knowledge. The technologies and tools that I've been learning and using are: HTML, CSS, JavaScript, React JS, Redux, Redux Toolkit, Node JS, Express, SQL, PostgreSQL, Sequelize, etc.
+Later, and thanks to Henry, I was able to get to work and collaborate with other people in these areas, and acquire greater depth in my knowledge. The technologies and tools that I've been learning and using are:
+- HTML, CSS, JavaScript, SCRUM
+- React JS, Redux, Redux Toolkit
+- Node JS, Express, SQL, PostgreSQL, Sequelize
 
 ## 👇 Take a look at my Pokemon App.
 
 It´s a SPA (Single Page Application) developed with:
 
-- 🎨 Front-End: React JS, Redux Toolkit
+- 🎨 Front-End: React JS, Redux Toolkit, CSS Modules
 - 🛠 Back-End: Node JS, Express
-- 📝 Database: Sequelize, Postgres
+- 📝 Database: Sequelize, PostgreSQL
 
 <img src='./img/Landing.png' width='350px' align='left'/>
 <img src='./img/Home.png' width='350px' align='center'/>
