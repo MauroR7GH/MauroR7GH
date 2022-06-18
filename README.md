@@ -6,7 +6,7 @@ I began to train myself in programming and web development by my own, with confe
 
 Later, and thanks to Henry, I was able to get to work and collaborate with other people in these areas, and acquire greater depth in my knowledge. The technologies and tools that I've been learning and using are:
 - HTML, CSS, JavaScript, SCRUM
-- React JS, Redux, Redux Toolkit
+- React JS, Redux Toolkit
 - Node JS, Express, SQL, PostgreSQL, Sequelize
 
 ## 👇 Take a look at my Pokemon App.
