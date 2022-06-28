@@ -7,7 +7,7 @@ I began my web development career as a self-taught student, learning with materi
 Later, and thanks to Henry, I was able to get to work and collaborate with other people in these areas, and acquire greater depth in my knowledge. The technologies and tools that I've been learning and using are:
 - HTML, CSS, JavaScript
 - React JS, Redux Toolkit
-- Node JS, Express, SQL, PostgreSQL, Sequelize
+- Node JS, Express, PostgreSQL, Sequelize
 - Vercel, Heroku, SCRUM
 
 ## 👇 Take a look at my Pokemon App.
@@ -17,7 +17,7 @@ It´s a SPA (Single Page Application) developed with:
 - 🎨 Front-End: React JS, Redux Toolkit, CSS Modules
 - 🛠 Back-End: Node JS, Express
 - 📝 Database: Sequelize, PostgreSQL
-- 🌎 Deploy: https://pokemon-app-henna.vercel.app/
+- 🌎 Deploy: https://pokemon-app-henna.vercel.app
 
 <img src='./img/Landing.png' width='350px' align='left'/>
 <img src='./img/Home.png' width='350px' align='center'/>
